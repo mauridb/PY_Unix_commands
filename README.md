@@ -7,8 +7,8 @@ Try to figure out day by day this Unix commands and replace them with Good and C
 
 TODO:
 - copy unix command STATUS: Completed!
-- cat unix command
-- echo unix command
+- cat unix command  
+- echo unix command STATUS: Completed!
 - curl unix command
 - rm unix command
 - ls unix command
