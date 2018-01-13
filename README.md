@@ -7,14 +7,15 @@ Try to figure out day by day this Unix commands and replace them with Good and C
 
 TODO:
 - copy unix command STATUS: Completed!
-- cat unix command  
+- touch unix command STATUS: Completed!
+- cat unix command  STATUS: Completed!
 - echo unix command STATUS: Completed!
-- curl unix command
-- rm unix command
-- ls unix command
-- mv unix command
-- zip unix command
-- less unix command
-- sed unix command
+- curl unix command STATUS: Todo
+- rm unix command STATUS: Todo
+- ls unix command STATUS: Todo
+- mv unix command STATUS: Todo
+- zip unix command STATUS: Todo
+- less unix command STATUS: Todo
+- sed unix command STATUS: Todo
 
 
