@@ -12,10 +12,10 @@ TODO:
 - echo unix command STATUS: Completed!
 - curl unix command STATUS: Todo
 - rm unix command STATUS: Todo
-- ls unix command STATUS: Todo
+- ls unix command STATUS: Completed!
 - mv unix command STATUS: Todo
 - zip unix command STATUS: Todo
 - less unix command STATUS: Todo
-- sed unix command STATUS: Todo
+- sed unix command STATUS: Completed!
 
 
